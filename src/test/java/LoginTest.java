@@ -74,6 +74,7 @@ public class LoginTest extends BaseTest {
     }
 
     public void loginWithAPI() throws IOException {
-
+        //Here I should get the data from response by sending the login from API Helper, and then give the parameter to
+        //setItemInLocalStorage() function, but have no time :)
     }
 }
